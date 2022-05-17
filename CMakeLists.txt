@@ -23,3 +23,4 @@ PROJECT(JZO)
 set(CMAKE_CXX_STANDARD 11)
 
 add_subdirectory(01_AssignmentOperator)
+add_subdirectory(03_current_next_value)
