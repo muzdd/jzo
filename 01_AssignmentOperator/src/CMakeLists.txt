@@ -1,4 +1,4 @@
-set(SRC AssignmentOperator.cpp)
+set(SRC AssignmentOperator.cpp valid.cpp)
 
 add_library(assp STATIC ${SRC})
 

@@ -1,3 +1,5 @@
+#include<cstring>
+#include<cstdio>
 class CMyString
 {
 public:
