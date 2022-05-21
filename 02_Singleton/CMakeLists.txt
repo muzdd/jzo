@@ -18,10 +18,8 @@ if(NOT CMAKE_BUILD_TYPE)
     set(CMAKE_BUILD_TYPE release CACHE STRING "Choose the type of build" FORCE)
 endif()
 
-PROJECT(JZO)
+PROJECT(AssigneOps)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_subdirectory(01_AssignmentOperator)
-add_subdirectory(02_Singleton)
-add_subdirectory(03_current_next_value)
+add_subdirectory(src)
