@@ -1,0 +1,8 @@
+/Users/lixintao/jzo/04_reverse_words/build_macOS_x86/macOS-release/CMakeFiles/rebuild_cache.dir
+/Users/lixintao/jzo/04_reverse_words/build_macOS_x86/macOS-release/CMakeFiles/edit_cache.dir
+/Users/lixintao/jzo/04_reverse_words/build_macOS_x86/macOS-release/src/CMakeFiles/rebuild_cache.dir
+/Users/lixintao/jzo/04_reverse_words/build_macOS_x86/macOS-release/src/CMakeFiles/edit_cache.dir
+/Users/lixintao/jzo/04_reverse_words/build_macOS_x86/macOS-release/src/CMakeFiles/rw.dir
+/Users/lixintao/jzo/04_reverse_words/build_macOS_x86/macOS-release/test/CMakeFiles/rebuild_cache.dir
+/Users/lixintao/jzo/04_reverse_words/build_macOS_x86/macOS-release/test/CMakeFiles/edit_cache.dir
+/Users/lixintao/jzo/04_reverse_words/build_macOS_x86/macOS-release/test/CMakeFiles/reverse_w.dir

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lixintao/jzo/04_reverse_words/src/reverse_words.cpp
+reverse_words.h
+/Users/lixintao/jzo/04_reverse_words/src/reverse_words.h
+string
+-
+
+/Users/lixintao/jzo/04_reverse_words/src/reverse_words.h
+stdio.h
+-
+
