@@ -20,6 +20,7 @@ void test(){
     ListNode* pHead=pNode1;
     PrintList(pHead);
     pl.PrintListReversingly_Iteratively(pHead);
+    DestroyList(pHead);
 }
 
 int main(int argc, char* argv[])
